@@ -1,0 +1,22 @@
+{
+    "LanguageTool": {
+        "GLEUMetric": 0.7944061024337087,
+        "BERTScoreMetric": 0.9871559143066406
+    },
+    "Gemma9bGEC": {
+        "GLEUMetric": 0.7584208620065194,
+        "BERTScoreMetric": 0.9717651605606079
+    },
+    "Llama90bGEC": {
+        "GLEUMetric": 0.8082316517938445,
+        "BERTScoreMetric": 0.9855674505233765
+    },
+    "Llama11bGEC": {
+        "GLEUMetric": 0.629812438302073,
+        "BERTScoreMetric": 0.966061532497406
+    },
+    "Mixtral8x7bGEC": {
+        "GLEUMetric": 0.2645658263305322,
+        "BERTScoreMetric": 0.8702722191810608
+    }
+}

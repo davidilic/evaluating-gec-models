@@ -1,0 +1,37 @@
+{
+    "LanguageTool": {
+        "ERRANTMetricF05": 0.2667,
+        "ERRANTMetricRecall": 0.1135,
+        "ERRANTMetricPrecision": 0.4025,
+        "GLEUMetric": 0.6711486025903204,
+        "BERTScoreMetric": 0.9591974020004272
+    },
+    "Gemma9bGEC": {
+        "ERRANTMetricF05": 0.413,
+        "ERRANTMetricRecall": 0.5047,
+        "ERRANTMetricPrecision": 0.3951,
+        "GLEUMetric": 0.6810961892426205,
+        "BERTScoreMetric": 0.9640608429908752
+    },
+    "Llama90bGEC": {
+        "ERRANTMetricF05": 0.4647,
+        "ERRANTMetricRecall": 0.5195,
+        "ERRANTMetricPrecision": 0.4528,
+        "GLEUMetric": 0.7176706827309237,
+        "BERTScoreMetric": 0.9677939414978027
+    },
+    "Llama11bGEC": {
+        "ERRANTMetricF05": 0.3941,
+        "ERRANTMetricRecall": 0.452,
+        "ERRANTMetricPrecision": 0.3819,
+        "GLEUMetric": 0.6725684141114409,
+        "BERTScoreMetric": 0.9605886340141296
+    },
+    "Mixtral8x7bGEC": {
+        "ERRANTMetricF05": 0.3632,
+        "ERRANTMetricRecall": 0.4711,
+        "ERRANTMetricPrecision": 0.3435,
+        "GLEUMetric": 0.6329758441031192,
+        "BERTScoreMetric": 0.9569156169891357
+    }
+}
