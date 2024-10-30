@@ -40,7 +40,7 @@ venv\Scripts\activate     # Windows
 pip install -r requirements.txt
 ```
 
-### 2. Data Preprocessing
+### 2. Data Preprocessing (Optional)
 This step is optional, as the data is already preprocessed.
 
 ```bash
